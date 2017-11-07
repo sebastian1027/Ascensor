@@ -1,0 +1,25 @@
+Warning[205] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 2 : Found directive in column 1. (list)
+Warning[205] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 3 : Found directive in column 1. (include)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 5 : Found label after column 1. (pisoactual)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 6 : Found label after column 1. (proximopiso)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 7 : Found label after column 1. (control)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 8 : Found label after column 1. (conta)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 9 : Found label after column 1. (CONTA_1)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 10 : Found label after column 1. (CONTA_2)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 11 : Found label after column 1. (CONTA_3)
+Warning[205] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 14 : Found directive in column 1. (org)
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 17 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 99 : Argument out of range.  Least significant bits used.
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 107 : Found label after column 1. (_piso2)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 126 : Found label after column 1. (_piso3)
+Warning[202] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 150 : Argument out of range.  Least significant bits used.
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 158 : Found label after column 1. (_pisoo3)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 169 : Found label after column 1. (_pisoo1)
+Warning[202] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 191 : Argument out of range.  Least significant bits used.
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 199 : Found label after column 1. (_pisooo1)
+Warning[207] D:\DIGITALES 2\PROYECTO ASCENSOR\ASCENSOR\MAIN.ASM 218 : Found label after column 1. (_pisooo2)

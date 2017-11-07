@@ -1,0 +1,68 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Mon Nov 06 22:22:32 2017
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000190
+                   .cinit    romdata   0x0000c8    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x0000c9      
+            202 out of 8455 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    PISO1   0x00001b    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    PISO2   0x000027    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    PISO3   0x000033    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C2   0x0000c2    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C4   0x0000c4    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C6   0x0000c6    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                   _piso2   0x00004d    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                   _piso3   0x00005e    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  _pisoo1   0x000080    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  _pisoo3   0x000077    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                 _pisooo1   0x00009a    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                 _pisooo2   0x0000ab    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    bucle   0x00000e    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                mismopiso   0x00003f    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    mover   0x0000b9    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp1   0x000043    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp2   0x00006d    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp3   0x000090    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  retardo   0x0000ba    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    bucle   0x00000e    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    PISO1   0x00001b    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    PISO2   0x000027    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    PISO3   0x000033    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                mismopiso   0x00003f    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp1   0x000043    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                   _piso2   0x00004d    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                   _piso3   0x00005e    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp2   0x00006d    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  _pisoo3   0x000077    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  _pisoo1   0x000080    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                      pp3   0x000090    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                 _pisooo1   0x00009a    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                 _pisooo2   0x0000ab    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                    mover   0x0000b9    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+                  retardo   0x0000ba    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C2   0x0000c2    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C4   0x0000c4    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+             _.org_0_00C6   0x0000c6    program     static D:\Digitales 2\Proyecto Ascensor\Ascensor\main.asm
+
+
